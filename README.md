@@ -7,7 +7,7 @@
 ![update_directory_md](https://github.com/TheAlgorithms/Go/workflows/update_directory_md/badge.svg)
 [![Discord chat](https://img.shields.io/discord/808045925556682782.svg?logo=discord&colorB=7289DA&style=flat-square)](https://the-algorithms.com/discord/)&nbsp;
 
-### Algorithms implemented in Go (for education)
+### Algorithms implemented in Go (for education).
 
 The repository is a collection of open-source implementation of a variety of algorithms implemented in Go and licensed under [MIT License](LICENSE).
 
